@@ -6,7 +6,7 @@
 
 <h2>gitlek</h2>
 
-```
+``` js
 
 	const a = "nisse";
 ```
